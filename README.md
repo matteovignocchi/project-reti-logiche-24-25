@@ -9,7 +9,6 @@ This repository contains the VHDL implementation of a hardware module designed f
 
 The goal of the project was to design a hardware component capable of interfacing with a memory, reading a sequence of bytes, applying a **differential filter** (convolution), and writing the normalized results back to memory.
 
-**Author:** Matteo Vignocchi  
 **Professor:** Prof. Gianluca Palermo  
 **Final Evaluation:** 26/30
 
