@@ -1,4 +1,4 @@
-# Logic Networks Final Project - Differential Filter Hardware - 2024/25
+# Logic Networks Final Project - Differential Filter Hardware - A.Y. 2024/25
 
 ![Language](https://img.shields.io/badge/Language-VHDL-blue)
 ![Platform](https://img.shields.io/badge/Platform-Xilinx_Artix--7-red)
