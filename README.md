@@ -92,7 +92,7 @@ The module was extensively verified using a comprehensive Testbench suite coveri
 
 ## 📂 Repository Structure
 * `/hdl`: Contains the VHDL source code (`project_reti_logiche.vhd`).
-* `/testbench`: Contains the testbench files used for simulation.
+* `/testbenches`: Contains the testbenches files used for simulation.
 * `/doc`: Project documentation and specifications.
 
 ## 📜 Copyright
