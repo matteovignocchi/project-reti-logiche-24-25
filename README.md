@@ -1,11 +1,11 @@
-# Logic Networks Final Project - Differential Filter Hardware - A.Y. 2024/25
+# Digital Logic Design Final Project - Differential Filter Hardware - A.Y. 2024/25
 
 ![Language](https://img.shields.io/badge/Language-VHDL-blue)
 ![Platform](https://img.shields.io/badge/Platform-Xilinx_Artix--7-red)
 ![Grade](https://img.shields.io/badge/Grade-26%2F30-brightgreen)
 
 ## 📌 Project Overview
-This repository contains the VHDL implementation of a hardware module designed for the **Final Project of the Logic Networks Course** (Progetto di Reti Logiche) at **Politecnico di Milano** (Academic Year 2024-2025).
+This repository contains the VHDL implementation of a hardware module designed for the **Final Project of the Digital Logic Design Course** (Progetto di Reti Logiche) at **Politecnico di Milano** (Academic Year 2024-2025).
 
 The goal of the project was to design a hardware component capable of interfacing with a memory, reading a sequence of bytes, applying a **differential filter** (convolution), and writing the normalized results back to memory.
 
